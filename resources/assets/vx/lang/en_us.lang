@@ -1,0 +1,20 @@
+//Items
+item.ingot_vexium.name=Vexium Ingot
+item.dust_vexium.name=Vexium Cluster
+
+
+//Blocks
+tile.block_vexium.name=Block of Vexium
+
+
+//Creative Tab
+itemGroup.tab_vexius=Vexius
+
+//WIP
+item.ingot_purpurium.name=[WIP] Purpurium Ingot
+item.dust_purpurium.name=[WIP] Purpurium Cluster
+item.ingot_toxicium.name=[WIP] Toxicium Ingot
+item.dust_toxicium.name=[WIP] Toxicium Cluster
+
+tile.block_purpurium.name=[WIP] Block of Purpurium
+tile.block_toxicium.name=[WIP] Block of Toxicium

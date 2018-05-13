@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Vx",
+  "name": "Vexium Mod",
+  "description": "Private mod for N3WB",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "www.n3wb.eu",
+  "updateUrl": "",
+  "authorList": ["VeyezX"],
+  "credits": "VeyezX - Coding and Texturing",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,7 @@
+{
+    "variants":
+    {
+        "variant=vexium": { "model": "vx:ore_overworld_vexium" },
+        "variant=dimiscus": { "model": "vx:ore_overworld_dimiscus" }
+    }
+}
